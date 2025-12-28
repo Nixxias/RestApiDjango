@@ -55,14 +55,17 @@ pip install django djangorestframework django-cors-headers
 3. Konfiguracja plików testowych
 Uwaga: Aby testy działały poprawnie i nie były blokowane przez przeglądarkę (CORS/ścieżki względne), pliki testowe muszą znajdować się wewnątrz struktury Django.
 
-Upewnij się, że pliki index.html oraz main.js znajdują się w katalogu: library_project/library/static/
-
+Upewnij się, że pliki index.html oraz main.js znajdują się w katalogu RestApiDjango obok manage.py
 Struktura projektu powinna wyglądać tak:
 
 ```bash
- -------> PLIKI TESTOWE  - wrzuć dostarczone osobno main.js i index.html do folderu RestApiDjango - odpowiada za wykonanie testu API rest i oceny poprawności z zadaniem. <----------
-        ├── index.html
-        └── main.js
+RestApiDjango/
+├── manage.py
+├── index.html  -------> PLIKI TESTOWE  - wrzuć dostarczone osobno main.js i index.html do folderu RestApiDjango - odpowiada za wykonanie testu API rest i oceny poprawności z zadaniem. <----------
+├── main.js
+├── library_project/
+├── api/
+└── venv/
 ```
 
 4. Baza danych
