@@ -26,6 +26,8 @@ Projekt spełnia następujące wymagania specyficzne:
 
 ##  Instalacja i Konfiguracja
 # Przygotuj wcześniej pobrane na komputer osobno dostarczone przez uczelnie pliki testowe index.html oraz main.js i wrzuć je poprawnie do głównego folderu - instrukcja poniżej 
+Uwaga: Pliki testowe nie zostały dołączone do repozytorium ze względu na prawa autorskie oraz możliwe aktualizacje ich treści. Aby zagwarantować, że projekt spełnia ściśle określone wymagania, pliki te muszą zostać dodane do folderu ręcznie przez użytkownika.
+
 Aby uruchomić projekt lokalnie, wykonaj poniższe kroki 
 
 
