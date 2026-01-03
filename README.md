@@ -63,7 +63,7 @@ Struktura projektu powinna wyglądać tak:
 RestApiDjango/
 ├── manage.py
 ├── index.html  -------> PLIKI TESTOWE  - wrzuć dostarczone osobno main.js i index.html do folderu RestApiDjango - odpowiada za wykonanie testu API rest i oceny poprawności z zadaniem. <----------
-├── main.js
+├── main.js -------> PLIKI TESTOWE  - wrzuć dostarczone osobno main.js i index.html do folderu RestApiDjango - odpowiada za wykonanie testu API rest i oceny poprawności z zadaniem. <----------
 ├── library_project/
 ├── api/
 └── venv/
