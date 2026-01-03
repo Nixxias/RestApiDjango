@@ -25,8 +25,9 @@ Projekt spełnia następujące wymagania specyficzne:
 ---
 
 ##  Instalacja i Konfiguracja
+# Przygotuj wcześniej pobrane na komputer osobno dostarczone przez uczelnie pliki testowe index.html oraz main.js i wrzuć je poprawnie do głównego folderu - instrukcja poniżej 
+Aby uruchomić projekt lokalnie, wykonaj poniższe kroki 
 
-Aby uruchomić projekt lokalnie, wykonaj poniższe kroki.
 
 ### 1. Klonowanie i środowisko wirtualne
 Zaleca się uruchomienie projektu w izolowanym środowisku.
